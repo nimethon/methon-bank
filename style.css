@@ -3,7 +3,7 @@ body{
 }
 .submit-area{
     margin-top: 50px;
-    border-radius: 5px;
-    box-shadow: 5px 5px 8px gray;
-    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgb(214, 212, 212);
+    padding: 35px;
 }
